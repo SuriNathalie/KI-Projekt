@@ -49,12 +49,4 @@ def openData(name):
         plt.show()
 
 
-#def kNearestNeighbour(data,point,k):
- #   distances = []
-  #  for row in data:
-            
-
-#[[plt.scatter(ii[1],ii[2],color = i) for ii in dataFrame[i]]for i in dataFrame]
-#plt.scatter(newData[0],newData[1],color= a)
-#plt.show()
 openData('bananas-1-2d.train.csv')
